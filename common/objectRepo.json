@@ -1,0 +1,53 @@
+{
+  "loginPage": {
+    "username": {
+      "locatorType": "name",
+      "locatorValue": "xyz"
+    },
+    "password": {
+      "locatorType": "name",
+      "locatorValue": "xyz"
+    },
+    "login": {
+      "locatorType": "name",
+      "locatorValue": "Login"
+    },
+    "title": {
+      "locatorType": "xpath",
+      "locatorValue": "xyz"
+    }
+  },
+
+  "SeanValuesPage1": {
+    "txt_val_1": {
+      "locatorType": "xpath",
+      "locatorValue": "xyz"
+    },
+    "txt_val_2": {
+      "locatorType": "xpath",
+      "locatorValue": "xyz"     
+                      
+    },
+    "txt_val_3": {
+      "locatorType": "xpath",
+      "locatorValue": "xyz"     
+    },
+ 
+    "txt_val_4":{
+      "locatorType": "xpath",
+      "locatorValue": "xyz"      
+    },
+    "txt_val_5":{
+      "locatorType": "xpath",
+      "locatorValue": "xyz"      
+    },
+	"txt_val_6":{
+      "locatorType": "xpath",
+      "locatorValue": "xyz"
+	  },
+    "txt_ttl_val":{
+      "locatorType": "xpath",
+      "locatorValue": "xyz"
+	  },
+  }
+}
